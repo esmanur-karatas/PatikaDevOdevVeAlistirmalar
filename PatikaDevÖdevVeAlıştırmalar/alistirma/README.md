@@ -1,0 +1,2 @@
+# alıstırma
+ kodluyoruz alıstırma

@@ -1,0 +1,31 @@
+[22,27,16,2,18,6] => Selection sort
+
+arrayin toplam elemanı n. ilk olarak en küçüğünü bulmak için n kadar işlem yapıyoruz.
+
+[2,27,16,22,18,6] => n
+
+Sonra kalanlar arasında en küçüğünü bulmak için n-1 kadar işlem yapıyoruz. Çünkü en küçük sayıyı bulduk ve en başa yazdık, bu yüzden biri elenmiş oldu.
+
+[2,6,16,22,18,27] => n-1
+
+Üçüncü eleman listedeki kalan sayılardan daha küçük olduğu için dokunmuyoruz.
+
+Son kalana kadar bu işlem devam ediyor ve son kalan için işlem n+1 oluyor.
+
+n+(n-1)+(n-2)....n+1 => n*(n+1)/2 => n²+n/2. Dominant faktöre göre n²'yi alıyoruz.
+
+Bu sort'un big o gösterimi o(n²)dir.
+
+[2,6,16,18,22,27] Dizi bu şekilde sıralanır. Soruda istenen 18 sayısı dizide ortadadır. Yani average case'dir.
+
+
+
+[7,3,5,8,2,9,4,15,6] 
+
+[2,3,5,8,7,9,4,15,6] n
+
+[2,3,5,8,7,9,4,15,6] değişim yok
+
+[2,3,4,8,7,9,5,15,6] n-2
+
+[2,3,4,5,7,9,8,15,6] n-3

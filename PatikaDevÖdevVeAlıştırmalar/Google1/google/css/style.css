@@ -1,0 +1,50 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.upbar {
+    background-color: #eeeeee;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: center;
+}
+
+.leftBar {
+    background-color: #7ee5da;
+    width: 37%;
+    margin-top: 3px;
+    padding: 10px;
+    text-align: center;
+}
+
+.middleBar {
+    background-color: #70ccc2;
+    width: 20%;
+    margin-top: 3px;
+    margin-left: 3px;
+    padding: 4px;
+    text-align: center;
+}
+
+.rightBar {
+    background-color: #62b3aa;
+    width: 43%;
+    margin-top: 3px;
+    font-size: small;
+    text-align: center;
+}
+
+footer {
+    margin-top: 15px;
+    text-align: center;
+    font-size: small;
+}
