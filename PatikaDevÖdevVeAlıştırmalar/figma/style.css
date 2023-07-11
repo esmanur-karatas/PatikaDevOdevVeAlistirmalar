@@ -1,0 +1,223 @@
+body {
+    background: linear-gradient(#120576, #800080) fixed;
+  }
+  .card1 {
+    width: 15%;
+    height: 75px;
+    background: #9456eb;
+    display: flex;
+    float: left;
+  }
+  .card2 {
+    width: 85%;
+    height: 75px;
+    background: #0000ff;
+    display: flex;
+    float: left;
+  }
+  .nav{
+    width: 100%;
+    height: 120px;
+    background: #120576;
+  }
+  .nav h3 {
+    display: flex;
+    float: left;
+    padding-left: 3%;
+    color:#e5d7f8; 
+    margin-top: 40px;  
+  }
+  .section {
+    width: 100%;
+    height: 650px;
+    text-align: center;
+    background: linear-gradient(#0000ff, #800080) fixed;
+    color: white;
+  }
+  .news {
+    line-height: 50px;
+    padding-top: 10px;
+    margin-top: 2%;
+  }
+  
+  .news1 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+    margin-left: 6.5%;
+  
+    background-color: #4f35f4;
+  }
+  .news2 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+  
+    background-color: #07238f;
+  }
+  .news3 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+    margin-right: 5%;
+  
+    background-color: rgb(149, 76, 228);
+  }
+  .news4 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+    margin-left: 6.5%;
+  
+    background-color: #4d08ee;
+  }
+  .news5 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+  
+    background-color:  rgb(149, 76, 228);
+  }
+  .news6 {
+    width: 25%;
+    height: 200px;
+    margin: 3%;
+    float: left;
+    margin-right: 5%;
+  
+    background-color: rgb(73, 5, 147);
+  }
+  .about {
+    width: 100%;
+    max-height: 1000px;
+    margin-top: 2%;
+    padding-bottom: 2.5%;
+    background: linear-gradient(#0000ff, #800080) fixed;
+  }
+  .hakkimizda {
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-bottom: 3%;
+    background: linear-gradient(#0000ff, #800080) fixed;
+  }
+  .services {
+    color: white;
+    margin-top: 2%;
+    padding-top: 10px;
+    text-align: center;
+    width: 100%;
+    height: 650px;
+    background: linear-gradient(#0000ff, #800080) fixed;
+  }
+  .service1 {
+    width: 17%;
+    height: 200px;
+    margin: 3.1%;
+    float: left;
+    margin-left: 6.5%;
+  
+    background-color: #edf5f5;
+  }
+  .service2 {
+    width: 17%;
+    height: 200px;
+    margin: 3.1%;
+    float: left;
+  
+    background-color: #bfc2fd;
+  }
+  .service3 {
+    width: 17%;
+    height: 200px;
+    margin: 3.1%;
+    float: left;
+    margin-right: 3%;
+  
+    background-color: #f7dbe9;
+  }
+  .service4 {
+    width: 17%;
+    height: 200px;
+    margin: 3.1%;
+    float: left;
+    margin-right: 5%;
+  
+    background-color: rgb(193, 202, 247);
+  }
+  .service5 {
+    width: 17%;
+    height: 200px;
+    margin: 3.1%;
+    float: left;
+    margin-left: 6.5%;
+  
+    background-color: #caf5f2;
+  }
+  .service6 {
+    width: 17%;
+    height: 200px;
+    margin: 3.1%;
+    float: left;
+  
+    background-color: #fde5de;
+  }
+  .service7 {
+    width: 17%;
+    height: 200px;
+    margin: 3.1%;
+    float: left;
+    margin-right: 3%;
+  
+    background-color: #dcf8cf;
+  }
+  .service8 {
+    width: 17%;
+    height: 200px;
+    margin: 3.1%;
+    float: left;
+    margin-right: 5%;
+  
+    background-color: rgb(254, 225, 245);
+  }
+  .contact {
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 2%;
+    height: 440px;
+    color: white;
+    background: linear-gradient(#0000ff, #800080) fixed;
+  }
+  .contact h2 {
+    text-align: center;
+    color: white;
+  }
+  input {
+    background-color: #beb5f3;
+    border: none;
+    color: white;
+  }
+  .inputs {
+    margin: 3%;
+    text-align: center;
+  }
+  .footer {
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 2%;
+    height: 55px;
+    background: linear-gradient(#0000ff, #800080) fixed;
+    text-align: center;
+  }
+  
+  .contact p {
+    margin-bottom: 0px;
+  }
+  
